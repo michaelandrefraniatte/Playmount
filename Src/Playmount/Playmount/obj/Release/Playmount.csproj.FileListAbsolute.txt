@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Playmount.exe.config
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Playmount.exe
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Playmount.pdb
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.Form1.resources
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.Properties.Resources.resources
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.CopyComplete
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.exe
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.pdb

@@ -9,6 +9,12 @@ C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Pl
 C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.Properties.Resources.resources
 C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.CopyComplete
 C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.exe
 C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.pdb
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\Playmount\Src\Playmount\Playmount\obj\Release\Playmount.csproj.Up2Date
